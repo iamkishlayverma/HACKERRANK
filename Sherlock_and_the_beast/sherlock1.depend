@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1454752629 source:c:\users\q\documents\sherlock1\main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1454752629 source:c:\users\q\documents\hackerrank\sherlock and the beast\main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

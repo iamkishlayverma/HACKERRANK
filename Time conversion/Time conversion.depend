@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472137709 source:c:\users\q\documents\time conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+

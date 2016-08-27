@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1454841273 source:c:\users\q\documents\sherlock square\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1454841421 source:c:\users\q\documents\hackerrank\sherlock square\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472142099 source:c:\users\q\documents\strange counter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
