@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1454827862 source:c:\users\q\documents\find_digits\main.c
+	<stdio.h>
+	<stdlib.h>
+

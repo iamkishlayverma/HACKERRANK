@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457607378 source:c:\users\q\documents\graphics\make_it_anagram\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

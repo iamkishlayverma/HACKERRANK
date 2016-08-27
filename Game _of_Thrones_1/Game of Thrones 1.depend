@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457522564 source:c:\users\q\documents\hackerrank\game of thrones 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
