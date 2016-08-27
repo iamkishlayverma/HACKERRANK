@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455199090 source:c:\users\q\documents\cut_the_sticks\main.c
+	<stdio.h>
+	<stdlib.h>
+

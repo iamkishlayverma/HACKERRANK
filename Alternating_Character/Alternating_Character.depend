@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457461408 source:c:\users\q\documents\hackerrank\alternating_character\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

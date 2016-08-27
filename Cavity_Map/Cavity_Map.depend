@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457093332 source:c:\users\q\documents\hackerrank\cavity_map\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+

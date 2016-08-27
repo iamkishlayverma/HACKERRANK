@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455475957 source:c:\users\q\documents\chocolate_feast\main.c
+	<stdio.h>
+	<stdlib.h>
+

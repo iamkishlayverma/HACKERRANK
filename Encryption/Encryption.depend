@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457013155 source:c:\users\q\documents\encryption\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

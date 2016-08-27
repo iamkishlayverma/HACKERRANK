@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472143437 source:c:\users\q\documents\bigger is greater\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
